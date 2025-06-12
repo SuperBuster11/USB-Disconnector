@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['USB_Disconnector.py'],
+    ['USB_Disconnector_2.0.py'],
     pathex=[],
     binaries=[],
     datas=[('type-a.ico', '.')],
